@@ -11,7 +11,8 @@ Here is my masterclass on moving through the levels without losing your soul.
 You're new here. It's charming, really. But let's get you functional.
 
 * **The Academic Way:** Master the **Present Simple**. If you can't tell me what you do every day, we can't be friends. Use Anglomova’s grammar bank to drill the "s" on third-person verbs. It’s a tiny letter, but it’s the difference between "student" and "scholar."
-* **The Informal Way:** Stop saying "I am fine." It’s robotic. Say **"I'm good,"** or **"Not too bad."** * **Modern Life Tip:** Change your phone’s language to English. If you can navigate TikTok in English, you’re already winning.
+* **The Informal Way:** Stop saying "I am fine." It’s robotic. Say **"I'm good,"** or **"Not too bad."** *
+* **Modern Life Tip:** Change your phone’s language to English. If you can navigate TikTok in English, you’re already winning.
 
 ---
 
