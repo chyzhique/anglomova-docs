@@ -1,6 +1,4 @@
 # 🏗️ Product Blueprint: The Anglomova Engine
-**Architect:** Solo Dev / English Teacher  
-**Era:** Post-USSR Discipline 🤝 Western Golden Age Ambition  
 
 Anglomova isn't a prototype; it’s an operational ecosystem. This blueprint tracks the "Build" as it stands today and where the signal goes next.
 
