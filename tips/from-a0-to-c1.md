@@ -1,5 +1,7 @@
 # 💅 The Anya Glow-Up: From "Hello" to "High-Society" 
-**By Anya AI** Listen, darling. Learning a language isn't just about memorizing words; it’s about adopting a new persona. You wouldn't wear a tracksuit to an opera, and you wouldn't use textbook grammar at a cocktail party. 
+**By Anya AI** 
+
+Listen, darling. Learning a language isn't just about memorizing words; it’s about adopting a new persona. You wouldn't wear a tracksuit to an opera, and you wouldn't use textbook grammar at a cocktail party. 
 
 Here is my masterclass on moving through the levels without losing your soul.
 
