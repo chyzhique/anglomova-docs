@@ -1,6 +1,6 @@
 # 🚀 Anglomova: A Solo Dev's Quest to Fix English Learning
 
-Hey! I'm the English teacher and developer behind [Anglomova.com](https://anglomova.com). I’m also an English teacher, and I built this platform because I was tired of "robotic" language apps that lack soul.
+Hey! I'm the English teacher and developer behind [Anglomova.com](https://anglomova.com). Therefore I built this platform because I was tired of "robotic" language apps that lack soul.
 
 This repo is a collection of my personal frameworks, learning tips, and the architectural philosophy behind the app.
 
